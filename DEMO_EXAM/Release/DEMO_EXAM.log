@@ -1,6 +1,8 @@
 ﻿  DEMO_EXAM.cpp
-c:\users\студент\desktop\demo_exam\demo_exam\demo_exam.cpp(40): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\студент\desktop\demo_exam\demo_exam\demo_exam.cpp(37): warning C4018: <: несоответствие типов со знаком и без знака
   Создание кода
-  All 215 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  93 of 208 functions (44.7%) were compiled, the rest were copied from previous compilation.
+    67 functions were new in current compilation
+    3 functions had inline decision re-evaluated but remain unchanged
   Создание кода завершено
   DEMO_EXAM.vcxproj -> C:\Users\Студент\Desktop\DEMO_EXAM\Release\DEMO_EXAM.exe
